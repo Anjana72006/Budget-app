@@ -54,7 +54,7 @@ function App() {
   return (
     <div className="container">
 
-      <h1>💰 Budget Tracker</h1>
+      <h1> Budget Tracker</h1>
 
       {/* Balance */}
       <div className="balance">
